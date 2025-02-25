@@ -3,6 +3,7 @@
 ## Aim of Project
 * Get a scrape a table from Wikipedia
 * Clean the data and save it as a CSV
+* Create a Power BI Visual
 
 ### Context
 In 2023 Talyor Swift started her Eras Tour topping quckly becoming one of the most suscessfull tours of all time. I decided get the table from wikipedia to practice scraping data and cleaning it.
